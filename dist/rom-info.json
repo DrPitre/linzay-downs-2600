@@ -1,0 +1,8 @@
+{
+  "bytes": 4096,
+  "mapper": "standard 4K, no bankswitching",
+  "tv": "NTSC",
+  "ram_variables": 27,
+  "sha256": "b5d44b093918557eab0b59f111571dac4c4b730cf40417a83246d8d3b594c5c6",
+  "physical_hardware_tested": false
+}

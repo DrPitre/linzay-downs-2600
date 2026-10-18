@@ -1,0 +1,2 @@
+PASS: attract, countdown, held Right, sprint drain, recovery, first/fourth place, held-fire protection, replay
+PASS: 2503 consecutive frames at 262 NTSC scanlines (59.92 Hz)
